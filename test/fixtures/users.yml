@@ -4,3 +4,10 @@ roman:
   profile_name: "bonik"
   email: "roman.hromenkov@gmail.com"
   hotel_name: "Tallink City Hotel"
+
+merigold:
+  first_name: "Kristiina"
+  last_name: "Hromenkova"
+  profile_name: "merigold"
+  email: "kristiina.l.hromenkova@gmail.com"
+  hotel_name: "Tallink Spa Hotel"
