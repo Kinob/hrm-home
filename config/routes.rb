@@ -1,4 +1,6 @@
 Hrm::Application.routes.draw do
+  get "profiles/show"
+
   devise_for :users
 
   devise_scope :user do
